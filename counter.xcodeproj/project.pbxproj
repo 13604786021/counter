@@ -14,6 +14,8 @@
 		F2BEE5E81D1B714600138A0F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2BEE5E61D1B714600138A0F /* LaunchScreen.storyboard */; };
 		F2BEE5F31D1B714600138A0F /* counterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2BEE5F21D1B714600138A0F /* counterTests.swift */; };
 		F2BEE5FE1D1B714600138A0F /* counterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2BEE5FD1D1B714600138A0F /* counterUITests.swift */; };
+		F2BEE6101D1B732200138A0F /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F2BEE60F1D1B732200138A0F /* 1.jpg */; };
+		F2BEE6141D1B910C00138A0F /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = F2BEE6131D1B910C00138A0F /* 2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		F2BEE5F91D1B714600138A0F /* counterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = counterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2BEE5FD1D1B714600138A0F /* counterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = counterUITests.swift; sourceTree = "<group>"; };
 		F2BEE5FF1D1B714600138A0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2BEE60F1D1B732200138A0F /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		F2BEE6131D1B910C00138A0F /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 		F2BEE5DC1D1B714600138A0F /* counter */ = {
 			isa = PBXGroup;
 			children = (
+				F2BEE6131D1B910C00138A0F /* 2.png */,
+				F2BEE60F1D1B732200138A0F /* 1.jpg */,
 				F2BEE5DD1D1B714600138A0F /* AppDelegate.swift */,
 				F2BEE5DF1D1B714600138A0F /* ViewController.swift */,
 				F2BEE5E11D1B714600138A0F /* Main.storyboard */,
@@ -230,6 +236,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F2BEE5E81D1B714600138A0F /* LaunchScreen.storyboard in Resources */,
+				F2BEE6101D1B732200138A0F /* 1.jpg in Resources */,
+				F2BEE6141D1B910C00138A0F /* 2.png in Resources */,
 				F2BEE5E51D1B714600138A0F /* Assets.xcassets in Resources */,
 				F2BEE5E31D1B714600138A0F /* Main.storyboard in Resources */,
 			);
